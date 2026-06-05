@@ -216,3 +216,34 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Data files (too large for GitHub)
+   *.csv
+   *.xlsx
+   *.xls
+   PS_20174392719_1491204049812_log.csv
+   
+# Jupyter
+   .ipynb_checkpoints/
+   *.ipynb_checkpoints
+   __pycache__/
+   
+# Python
+   *.py[cod]
+   *$py.class
+   *.so
+   .Python
+   venv/
+   env/
+   ENV/
+   
+# IDE
+   .vscode/
+   .idea/
+   *.swp
+   *.swo
+   *~
+   
+ # OS
+   .DS_Store
+   Thumbs.db
