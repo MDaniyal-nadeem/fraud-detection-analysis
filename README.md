@@ -267,8 +267,8 @@ This analysis framework demonstrates capability in:
 
 ## Project Deliverables
 
-- **fraud_detection_final.ipynb**: Complete Jupyter notebook with all 6 analytical phases
-- **BDA_Group_13_Report.docx**: Comprehensive group project report with findings
+- **fraud_detection_analyisis_paysim.ipynb**: Complete Jupyter notebook with all 6 analytical phases
+- **fraud_detection_analyisis_paysim_report.docx**: Comprehensive group project report with findings
 - **README.md**: Project documentation (this file)
 - **requirements.txt**: Python package dependencies
 - **PaySim Dataset:** 6.4 million transaction records (from Kaggle)
@@ -314,8 +314,8 @@ Execute cells in sequence to reproduce analysis.
 
 ```
 fraud-detection-analysis/
-├── fraud_detection_final.ipynb (Jupyter notebook - 20 cells)
-├── BDA_Group_13_Report.docx (Group project report)
+├── fraud_detection_analyisis_paysim.ipynb (Jupyter notebook - 20 cells)
+├── fraud_detection_analyisis_paysim_report.docx (Group project report)
 ├── README.md (Project documentation)
 ├── requirements.txt (Python dependencies)
 └── PS_20174392719_1491204049812_log.csv (PaySim dataset)
@@ -373,10 +373,10 @@ Based on analysis findings:
 ## Academic Context
 
 **Course:** Big Data Analytics (BDA)  
-**Project:** Group Project #13  
+**Project:** fraud_detection_analyisis_paysim  
 **Institution:** COMSATS University Islamabad  
 **Program:** Business Data Analytics  
-**Team:** Multiple contributors  
+**Team:** Single contributor 
 **Date:** 2025-2026
 
 ## Learning Outcomes
